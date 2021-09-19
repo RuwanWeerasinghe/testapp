@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Login_test</string>
+    <string name="register">Register</string>
+    <string name="user_name">User Name</string>
+    <string name="contact_no">Contact No</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="c_password">Comfirm Password</string>
+    <string name="register_but">Register</string>
+    <string name="already_have_an_account">Already have an Account</string>
+    <string name="welcome_froots_again">Welcome to Froots again!</string>
+    <string name="login_email">enter your email</string>
+    <string name="login_password">enter your password</string>
+    <string name="forg_password">Forget Password</string>
+    <string name="login_btn">Login</string>
+    <string name="a_shop_bt">| A Shop |</string>
+    <string name="dont_hv_an_account">Don\'t have an Account? Sign Up</string>
+    <string name="shag_name">Shag97</string>
+    <string name="profile_view_email">Your Email :</string>
+    <string name="shag_mail">Shag97@gmail.com</string>
+    <string name="profile_contact_no">Your Contact No :</string>
+    <string name="shag_No">0778077899</string>
+    <string name="profile_edit">Edit My Account</string>
+    <string name="profile_delet">Delete my Account</string>
+</resources>
